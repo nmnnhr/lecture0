@@ -1,0 +1,62 @@
+body{
+    background: url("homeback.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+nav{
+    border: 2px solid black;
+    height: 50px;
+    border-radius: 5px;
+    background-color: black;
+    opacity: 0.7;
+}
+ul{
+    display: inline-block;
+}
+ul>li{
+    display: inline-block;
+}
+ul>li>a{
+    color: white;
+    text-decoration: none;
+    margin-left: 6px;
+    margin-right: 6px;
+    padding: 2px;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+ul>li>a:hover{
+    color: black;
+    background-color:white;
+}
+#info{
+    background-color: white;
+    border-radius: 20px;
+    height: 450px;
+    width: 600px;
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-bottom: 100px;
+    opacity:0.6; 
+}
+#foot{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    border: 2px solid black;
+    height: 30px;
+    border-radius: 5px;
+    background-color: black;
+    opacity: 0.7;
+}
+.contact{
+    float: right;
+    margin-top: 15px;
+    margin-right: 20px;
+}

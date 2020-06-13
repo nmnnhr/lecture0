@@ -1,0 +1,11 @@
+div table tr th {
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+div table tr th, div table tr td {
+  color: white;
+  background-color: black;
+}
+
+/*# sourceMappingURL=skills.css.map */
